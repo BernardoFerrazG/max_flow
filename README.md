@@ -1,1 +1,1 @@
-Max flow algoritm
+Max flow algorithm
